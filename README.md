@@ -1,4 +1,4 @@
-Hello!<br>My Self Abhishek Yadav <img src="https://education.github.com/assets/nuxtocat-79c10c041306849eacad55263b0cb8c074d38804e3c282031a9359ba7aac6c4e.gif" align="right"/>
+Hello!<br>I am Abhishek Yadav <img src="https://education.github.com/assets/nuxtocat-79c10c041306849eacad55263b0cb8c074d38804e3c282031a9359ba7aac6c4e.gif" align="right"/>
 - 👋 Hi, I’m @eabhi-me
 - 👀 I’m interested in learning and exploring
 - 🌱 I’m currently learning programmming
