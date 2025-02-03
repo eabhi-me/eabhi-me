@@ -15,6 +15,26 @@ Hello!<br>I am Abhishek Yadav
   </tr>
 </table>
 <br>
+
+# Hi there, I'm Abhi! 👋
+
+Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for learning and building innovative solutions. Here you'll find a collection of my projects, contributions, and a bit about me.
+
+## 🔧 Technologies & Tools
+
+- **Languages**: Python, JavaScript, TypeScript, Java, C++
+- **Frameworks**: React, Node.js, Express, Django, Flask
+- **Databases**: MongoDB, MySQL, PostgreSQL
+- **Tools**: Git, Docker, Kubernetes, CI/CD (GitHub Actions, Jenkins)
+- **Cloud**: AWS, Azure, Google Cloud
+
+## 📚 What I'm Learning
+
+I'm always looking to expand my skill set and stay updated with the latest trends in technology. Currently, I'm diving deeper into:
+
+- Machine Learning and AI
+- Blockchain development
+- DevOps practices
   
 <br>
 <h2>My Skill Set</h2>  
