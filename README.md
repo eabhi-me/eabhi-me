@@ -28,22 +28,8 @@
       </td>
     </tr>
   </table>
-</div>shek Yadav
-<table>
-  <tr>
-    <td>
-      
-- 👋 Hi, I’m @eabhi-me
-- 👀 I’m interested in learning and exploring
-- 🌱 I’m currently learning programmming
-- 💞️ I’m looking to collaborate with myself
-- 📫 How to reach me - forget about that
-    </td>
-    <td>
-       <img src="https://education.github.com/assets/nuxtocat-79c10c041306849eacad55263b0cb8c074d38804e3c282031a9359ba7aac6c4e.gif" width="300px"/>
-    </td>
-  </tr>
-</table>
+</div>
+
 <br>
 
 # Hi there, I'm Abhi! 👋
