@@ -101,7 +101,7 @@ I'm always looking to expand my skill set and stay updated with the latest trend
   <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 </div>
 
-<table align="center">
+<!-- <table align="center">
   <tr>
     <td valign="top" width="50%">
       <div align="center">
@@ -136,7 +136,7 @@ I'm always looking to expand my skill set and stay updated with the latest trend
       </div>
     </td>
   </tr>
-</table>  
+</table>   -->
 
 
 <div align="center">
