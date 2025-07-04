@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm an enthusiastic developer with a passion for l
 I'm always looking to expand my skill set and stay updated with the latest trends in technology. Currently, I'm diving deeper into:
 
 - Machine Learning and AI
-- Blockchain development
+- Backend Developer
 - DevOps practices
   
 <br>
